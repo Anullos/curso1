@@ -1,0 +1,14 @@
+{
+  "name": "servidor1curso",
+  "version": "1.0.0",
+  "description": "curso1 udemy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anullos",
+  "license": "MIT",
+  "dependencies": {
+    "countries-list": "^2.5.4"
+  }
+}
